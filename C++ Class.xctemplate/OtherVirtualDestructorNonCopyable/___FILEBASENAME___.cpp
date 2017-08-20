@@ -6,7 +6,7 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#include "___FILEBASENAME___.h"
+#include "___FILEBASENAME___.hpp"
 
 ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___()
 : ___VARIABLE_cppSubclass___()

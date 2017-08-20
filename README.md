@@ -4,7 +4,7 @@ A C++ class (with implementation and header files) with optional virtual destruc
 
 ## Installation
 
-Copy the "C++ Class.xctemplate" directory to "/Users/&lt;username&gt;/Library/Developer/Xcode/Templates/File Templates/C and C++" on your Mac (if it doesn't exist, create it). Tested with Xcode 6 and 7 but it should also work with earlier versions of Xcode.
+Copy the "C++ Class.xctemplate" directory to "/Users/&lt;username&gt;/Library/Developer/Xcode/Templates/File Templates/C and C++" on your Mac (if it doesn't exist, create it). Tested with Xcode 6, 7 and 8 but it should also work with earlier versions of Xcode.
 
 ## Usage
 

@@ -6,4 +6,4 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#include "___FILEBASENAME___.h"
+#include "___FILEBASENAME___.hpp"
